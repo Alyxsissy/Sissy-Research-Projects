@@ -2,6 +2,8 @@
 
 ## [Alyxsissy AI](https://www.alyxsissy.com/) | [Sissy Research Institute Discord](https://discord.gg/CRdfmBjkG7)
 
+<img src="https://github.com/Nymbo/Web-Hosted-Images/blob/main/vice%20city%20alyxsissy.png" alt="Chatbot UI" width="700">
+
 ## Description
 
 This repo is maintained by Alyxsissy and Sissy Research Institute to progress the state of sissy training through technological means. Mostly using AI.
