@@ -2,7 +2,7 @@
 
 ## [Alyxsissy AI](https://www.alyxsissy.com/) | [Sissy Research Institute Discord](https://discord.gg/CRdfmBjkG7)
 
-<img src="./public/vice%20city%20alyxsissy.png" alt="Alyxsissy.com" width="200">
+<img src="./public/alyxsissy.png" alt="Alyxsissy.com" width="200">
 
 ## Description
 
