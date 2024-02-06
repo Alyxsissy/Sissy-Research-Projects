@@ -1,6 +1,6 @@
 # This script can be used to convert a Parquet dataset into a CSV or Excel file to easily view and interact with large datasets.
 
-# Remove the hashtags from lines 3, 4, and 5 the first time you run this script to install the required packages
+# Remove the hashtags from lines 5, 6, and 7 the first time you run this script to install the required packages
 
 #pip install pandas
 #pip install pyarrow
